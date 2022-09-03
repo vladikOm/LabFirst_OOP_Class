@@ -1,0 +1,2 @@
+# LabFirst_OOP_Class
+OOP_Class_works_with_math_formulas
